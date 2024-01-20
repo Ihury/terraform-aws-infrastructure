@@ -1,0 +1,8 @@
+ec2-key*
+.terraform*
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*.tfplan
+*.tfr
+*.tfstate.lock.info
